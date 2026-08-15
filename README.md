@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gamal Mohamed</h1>
 
 # 💫 About Me:
-DevOps Engineer from Egypt
+DevOps Engineer specializing in AWS cloud infrastructure, Kubernetes orchestration, and secure CI/CD automation. Experienced in designing and deploying production-grade cloud platforms using Infrastructure as Code (Terraform, Ansible) and implementing DevSecOps practices including container security scanning and secrets management. Strong background in
+high-availability architectures, GitOps workflows, and scalable cloud-native deployments
 
 
 ## 🌐 Socials:
